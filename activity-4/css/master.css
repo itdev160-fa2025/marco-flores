@@ -1,0 +1,105 @@
+body {
+    font-family: "Anton SC", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+header {
+    background-color: #b12b0a;
+    color: #020000;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 24px;
+}
+
+
+main {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+figure {
+    margin: 0;
+    text-align: center;
+}
+
+figure img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    border: 2px solid #b12b0a;
+}
+
+figcaption {
+    font-size: 17px;
+    color: #555;
+    margin-top: 10px;
+}
+
+figcaption span {
+    font-weight: bold;
+    color: #333;
+}
+
+
+#productDescription {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.8;
+}
+
+
+h2 {
+    margin-top: 40px;
+    font-size: 22px;
+    color: #333;
+}
+
+#greeting  {
+    color: #020000;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+.review {
+    background-color: #f9f9f9;
+    border-left: 5px solid #b12b0a;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.review h3 {
+    font-size: 19px;
+    color: #b12b0a;
+    margin: 0 0 10px;
+    text-transform: capitalize;
+}
+
+
+.review p {
+    font-size: 16px;
+    color: #555;
+    margin: 0;
+}
+
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
