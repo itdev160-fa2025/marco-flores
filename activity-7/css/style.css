@@ -1,0 +1,26 @@
+body {
+    font-family: "Baskervville SC", Tahoma, Verdana, sans-serif;
+    margin: auto 30px;
+    color:rgb(57, 217, 25);
+    background-color: black;
+}
+
+ul {
+    margin: 0;
+}
+
+li{
+    padding: 5px;
+}
+
+#todo-list-container {
+    margin-top: 2opx;
+}
+
+#completed-list {
+    list-style-type: none;
+}
+
+#completed-list li {
+    text-decoration: line-through;
+}
